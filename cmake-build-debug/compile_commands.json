@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/vimal2907/Documents/scaler-Adv-DBMS/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++17 -fdiagnostics-color=always -Wall -Wextra -o CMakeFiles/ClockSweep.dir/main.cc.o -c /home/vimal2907/Documents/scaler-Adv-DBMS/main.cc",
+  "file": "/home/vimal2907/Documents/scaler-Adv-DBMS/main.cc",
+  "output": "/home/vimal2907/Documents/scaler-Adv-DBMS/cmake-build-debug/CMakeFiles/ClockSweep.dir/main.cc.o"
+}
+]

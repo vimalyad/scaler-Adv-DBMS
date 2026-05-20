@@ -1,0 +1,3 @@
+/home/vimal2907/Documents/scaler-Adv-DBMS/cmake-build-debug/CMakeFiles/ClockSweep.dir
+/home/vimal2907/Documents/scaler-Adv-DBMS/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/vimal2907/Documents/scaler-Adv-DBMS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
